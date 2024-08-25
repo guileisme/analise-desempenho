@@ -7,7 +7,7 @@ public class arq {
     public static void main(String[] args) throws Exception
     {
         // cria um novo objeto File para ser o arquivo .txt
-        File file = new File("atividade-01\\arq.txt");
+        File file = new File("arq.txt");
         //cria um scanner para ler o arquivo
         Scanner scanner = new Scanner(file); 
         // cria um array para separar cada linha do arquivo em strings
